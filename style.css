@@ -1,0 +1,36 @@
+
+
+#one{
+    color: blue;
+    background-color: yellow;
+    display: inline;
+
+}
+
+#bo{
+    background-color: greenyellow;
+}
+.two{
+    color: blue;
+}
+.three{
+
+    
+    background-color: rgb(199, 218, 199);
+    border-color: blue;
+    
+}
+.four{
+    color: rgb(128, 10, 10);
+}
+#five{
+    color: blue;
+    background-color: yellow;
+}
+
+.pc{
+    margin-left: 300px;
+    border-radius: 30px;
+    
+    
+}
